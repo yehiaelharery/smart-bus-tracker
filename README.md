@@ -16,7 +16,7 @@ An AI-powered system that detects, tracks, and counts passengers on a bus in rea
 
 ## Demo
 
-A demo video is included in this repository: [`Bus_Reid_Project.mp4`](video.mp4). You can watch it to see the system in action.
+A demo video is included in this repository: [`Bus_Reid_Project.mp4`](Bus_Reid_Project4.mp4). You can watch it to see the system in action.
 
 ---
 
